@@ -57,7 +57,7 @@ nav {
   background-repeat: none;
   width: 34%;
   height: 85%;
-  background-size: 100%;
+  background-size: 120%;
   transition: 0.25s;
 }
 .map-box-one {
@@ -80,7 +80,7 @@ nav {
 .map-box-one:hover,
 .map-box-two:hover,
 .map-box-three:hover {
-  background-size: 110%;
+  background-size: 130%;
 }
 
 /* parks */
@@ -102,7 +102,7 @@ nav {
   background-repeat: none;
   width: 34%;
   height: 85%;
-  background-size: 100%;
+  background-size: 120%;
   transition: 0.25s;
   display: flex;
   justify-content: center;
@@ -130,7 +130,7 @@ nav {
 .parks-box-one:hover,
 .parks-box-two:hover,
 .parks-box-three:hover {
-  background-size: 110%;
+  background-size: 130%;
   font-size: 30px;
   color: white;
 }
@@ -154,7 +154,7 @@ nav {
   background-repeat: none;
   width: 34%;
   height: 85%;
-  background-size: 100%;
+  background-size: 120%;
   transition: 0.25s;
   display: flex;
   justify-content: center;
@@ -182,7 +182,7 @@ nav {
 .rest-box-one:hover,
 .rest-box-two:hover,
 .rest-box-three:hover {
-  background-size: 110%;
+  background-size: 130%;
   font-size: 30px;
   color: white;
 }
