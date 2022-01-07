@@ -55,3 +55,11 @@ form {
   padding: 40px;
   margin: 40px;
 }
+
+.stylize-buttons {
+  background-color: yellow;
+  width: 300px;
+  padding: 20px;
+  margin: 10px;
+  margin-top: 0px;
+}
