@@ -110,6 +110,9 @@ nav {
   font-size: 0;
   color: white;
 }
+a {
+  text-decoration: none;
+}
 .parks-box-one {
   background-image: url("./Images/park\ one.PNG");
 }
